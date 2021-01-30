@@ -7,17 +7,7 @@ Or       https://atexweb.space/
 <br />
 
 
-![hackdavis](https://user-images.githubusercontent.com/60949882/104137982-eba68980-536e-11eb-9382-69c613070a4b.gif)
 
-### Developer (Alphabetically)
-<br />
-🔥 Hoan Pham
-🔥 Hung Pham
-🔥 Loc Tran
-🔥 Nhat Nguyen
-<br />
-### Connect with me:
-<br />
 
 
 ### Built With Languages and Tools:
@@ -90,26 +80,7 @@ Or       https://atexweb.space/
 
 
 
-[website]: atex.org
 
-<br/>
-
-
-Download our app: <a id="raw-url" href="https://github.com/atex-org/davishack2021/raw/main/demo/atex.org.apk"><img width ="150" src="https://github.com/atex-org/davishack2021/raw/main/demo/download.png"></a>
-<br/>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_1.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_2.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_3.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_4.png"></code>
-
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_5.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_6.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_7.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_8.png"></code>
-
-<code><img height="420" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_9.png"></code>
-<code><img height="400" src="https://github.com/atex-org/davishack2021/raw/main/demo/android_10.png"></code>
-############################################################################################################################################################
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
