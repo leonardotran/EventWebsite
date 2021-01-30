@@ -2,12 +2,6 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60949882/106341604-d8028a80-626b-11eb-995d-100ca80d745f.gif)
 
-[![Website](https://img.shields.io/badge/Website-atex.org-brightgreen)](https://atex.org)
-<br />
-Website: https://atex.org
-<br />
-Or       https://atexweb.space/
-<br />
 
 
 
