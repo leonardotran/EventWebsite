@@ -1,0 +1,39 @@
+{
+  "Event": [
+    
+     { "_id": 1, "title": "100 Tree Planting", 
+    "thumbnailUrl": "/event.jpg", 
+    "eventname": "Trees",
+    "rating": 124, 
+    "date_time": "2021-01-18T08:00:00.000+00:00",
+    "location": { "latlon": "38.5586071,-121.7499519", "address": "1405 F St, Davis, CA 95616, USA" }
+  },
+   
+     { "_id": 2, "title": "Schools Cleanup Challenge", 
+      "thumbnailUrl": "/event1.jpg", 
+      "eventname": "Bags",
+      "rating": 243, 
+      "date_time": "2021-01-18T08:00:00.000+00:00",
+      "location": { "latlon": "38.5586071,-121.7499519", "address": "1405 F St, Davis, CA 95616, USA" }
+    },
+      
+      
+      { "_id": 3, "title": "Plogging Roost Utrecht", 
+        "thumbnailUrl": "/event2.jpg",
+       
+        "eventname": "Bags",
+        "rating": 695, 
+        "date_time": "2021-01-18T08:00:00.000+00:00",
+        "location": { "latlon": "38.5586071,-121.7499519", "address": "1405 F St, Davis, CA 95616, USA" }
+      },
+        
+        
+      { "_id": 4, "title": "The Straight Mosque Malacca", 
+          "thumbnailUrl": "/event3.jpg", 
+          "eventname": "Bags",
+          "rating": 1005, 
+          "date_time": "2021-01-18T08:00:00.000+00:00",
+          "location": { "latlon": "38.5586071,-121.7499519", "address": "1405 F St, Davis, CA 95616, USA" } 
+        }
+  ]
+}
