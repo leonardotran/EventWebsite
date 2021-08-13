@@ -44,7 +44,7 @@ When materials are recycled, much fewer resources are required to recreate the s
 
 ### ⚙️ Technology
 <details>
-  <summary>:zap: What We Built :zap: </summary> 
+  <summary>:zap: What We Used :zap: </summary> 
   
 <!--START_SECTION:activity-->
 <br />
